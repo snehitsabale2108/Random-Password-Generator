@@ -41,6 +41,11 @@ The main objective of this project is to generate strong random passwords to imp
 
 ---
 
+## Demonstration Video
+(https://www.linkedin.com/posts/snehit-sabale-09916b2a3_python-programming-cybersecurity-ugcPost-7458459447951114240-kNGh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEksLLUBohRf2OnimU1SGsE97VY9fP3oDcc)
+
+---
+
 ## Future Improvements
 - Add password strength checker
 - Create GUI version using Tkinter
